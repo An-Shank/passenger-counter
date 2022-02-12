@@ -15,3 +15,8 @@ function save() {
   countEl.textContent = 0
   count = 0
 }
+
+// Function to show a warning while refreshing
+window.onbeforeunload = function () {
+  return "Info will be lost!";
+}
