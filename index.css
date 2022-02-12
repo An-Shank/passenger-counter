@@ -1,7 +1,7 @@
 body {
   background: linear-gradient(0deg,
-      rgba(238, 230, 234, 0.3),
-      rgba(243, 235, 240, 0.3)),
+      rgba(238, 230, 234, 0.7),
+      rgba(243, 235, 240, 0.7)),
     url("subway.jpg");
   background-size: cover;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
